@@ -298,6 +298,7 @@ section{
     font-size: 20px;
     line-height: 1.4;
     margin-bottom: 4rem;
+    margin-right: 10px;
 }
 
 /* Modal Styles */
@@ -486,16 +487,19 @@ section{
 .section-4{
     display: flex;
     flex-wrap: wrap;
-
+    margin: 0 auto;
+    justify-content: center;
 }
-
+.skills .sub-title{
+    text-align: center;
+    margin-left: 120px;
+}
 
 .container1{
     width: 600px;
     height: 500px;
     padding: 75px 90px;
     margin-left: 50px;
-
 }
 .heading{
     text-align: center;
@@ -770,7 +774,7 @@ section{
 
 .work_container{
     display: grid;
-    grid-template-columns: repeat(3, 390px);
+    grid-template-columns: repeat(4, 390px);
     justify-content: center;
     margin-top: 10px;
     grid-gap: 30px;
