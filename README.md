@@ -8,7 +8,7 @@ The website focuses on a clean UI, smooth animations, responsive layouts, and an
 
 ## 🔗 Live Demo
 
-👉 **Live Website:** `PASTE_YOUR_LIVE_LINK_HERE`
+👉 **Live Website:** https://fuyad254.github.io/My-Personal-Portfolio-Website/
 
 ---
 
