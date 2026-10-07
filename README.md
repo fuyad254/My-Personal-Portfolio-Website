@@ -173,7 +173,6 @@ If you'd like to collaborate, discuss a project, or simply say hello, feel free 
 * 🐙 **GitHub:** https://github.com/fuyad254
 * 📘 **Facebook:** https://www.facebook.com/mdfuyadal.khtib
 * 📸 **Instagram:** https://www.instagram.com/mdfuyadalkhatib/
-* 💬 **WhatsApp:** `YOUR_WHATSAPP_LINK`
 * ✈️ **Telegram:** https://t.me/fuyad2544
 
 ---
